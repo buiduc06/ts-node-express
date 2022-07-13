@@ -1,4 +1,4 @@
-# Demo-Project: Task management app
+# Demo-Project: TODO LIST App
 
 ## Demo
 
@@ -37,3 +37,8 @@ npm run build
 | 3   | POST   | http://localhost:3000/todos     | ["text": required] | create todo       |
 | 4   | PATCH  | http://localhost:3000/todos/:id | ["text": required] | Update todo by id |
 | 5   | DELETE | http://localhost:3000/todos/:id |                    | Delete todo by id |
+
+## Auth
+
+- duc.bui
+- ducbui.dev@gmail.com
